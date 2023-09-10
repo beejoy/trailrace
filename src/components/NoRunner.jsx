@@ -7,8 +7,9 @@ const NoRunner = () => {
         Oops! Seems like you are not registered.
       </h2>
       <p className="mb-2">
-        We could not find the payment code. Please, make sure the code that you
-        entered is correct.
+        We could not find the payment code. If you have already filled the
+        registration form and have made the payment, please, make sure the code
+        that you entered is correct.
       </p>
     </div>
   );
