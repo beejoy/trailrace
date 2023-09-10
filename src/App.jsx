@@ -12,7 +12,7 @@ const App = () => {
 
   const searchTxncode = (txncode) => {
     setRunner(myData.filter((data) => data.Code === txncode));
-    setFirstrun(false);
+    txncode === "" ? setFirstrun(true) : setFirstrun(false);
   };
   return (
     <div className="w-full h-screen bg-green-600 text-slate-200 pt-10 px-10 flex flex-col items-center">
