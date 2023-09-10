@@ -20,7 +20,7 @@ const CodeForm = ({ onSubmit }) => {
         id="txn-code"
         value={txncode}
         placeholder="transaction/reference code"
-        onChange={(e) => setTxncode(e.target.value)}
+        onChange={(e) => setTxncode(e.target.value.toUpperCase())}
         className="text-green-700 border-green-700 text-center px-5 py-2 rounded-full w-full outline-none"
       />
       <button
