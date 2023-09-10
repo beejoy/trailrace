@@ -15,7 +15,7 @@ const App = () => {
     txncode === "" ? setFirstrun(true) : setFirstrun(false);
   };
   return (
-    <div className="w-full h-screen bg-green-600 text-slate-200 pt-10 px-10 flex flex-col items-center">
+    <div className="w-full h-screen text-slate-200 pt-10 px-10 flex flex-col items-center">
       <Header />
       <CodeForm onSubmit={searchTxncode} />
       {!firstrun ? (
