@@ -5,7 +5,9 @@
     "Age": 20,
     "Gender": "Male",
     "Address": "Pachathar",
-    "Mobile": 9815902421
+    "Mobile": 9815902421,
+    "Category": "Open (16 - 39yrs)",
+    "TshirtSize": "M"
   },
   {
     "Code": "OF64SRL",
@@ -13,7 +15,9 @@
     "Age": 60,
     "Gender": "Male",
     "Address": "Dharan 19",
-    "Mobile": 9820328195
+    "Mobile": 9820328195,
+    "Category": "Veteran (40yrs and above)",
+    "TshirtSize": "M"
   },
   {
     "Code": "0F64ZWT",
@@ -21,7 +25,9 @@
     "Age": 17,
     "Gender": "Male",
     "Address": "Mehinagar-Jhapa",
-    "Mobile": 9824029716
+    "Mobile": 9824029716,
+    "Category": "Open (16 - 39yrs)",
+    "TshirtSize": "M"
   },
   {
     "Code": "0865C96",
@@ -29,7 +35,9 @@
     "Age": 18,
     "Gender": "Male",
     "Address": "Dharan 8",
-    "Mobile": 9819065545
+    "Mobile": 9819065545,
+    "Category": "Open (16 - 39yrs)",
+    "TshirtSize": "M"
   },
   {
     "Code": "0865HPX",
@@ -37,7 +45,9 @@
     "Age": 53,
     "Gender": "Male",
     "Address": "Dharan 18",
-    "Mobile": 9842351814
+    "Mobile": 9842351814,
+    "Category": "Veteran (40yrs and above)",
+    "TshirtSize": "L"
   },
   {
     "Code": "0F65KF6",
@@ -45,7 +55,9 @@
     "Age": 18,
     "Gender": "Male",
     "Address": "Ilam-Jarshing",
-    "Mobile": 9842903679
+    "Mobile": 9842903679,
+    "Category": "Open (16 - 39yrs)",
+    "TshirtSize": "L"
   },
   {
     "Code": "0F65OGX",
@@ -53,7 +65,9 @@
     "Age": 30,
     "Gender": "Male",
     "Address": "damak",
-    "Mobile": 9807919194
+    "Mobile": 9807919194,
+    "Category": "Open (16 - 39yrs)",
+    "TshirtSize": "L"
   },
   {
     "Code": "OF65XC1",
@@ -61,7 +75,9 @@
     "Age": 46,
     "Gender": "Male",
     "Address": "Dharan 16",
-    "Mobile": 9815326366
+    "Mobile": 9815326366,
+    "Category": "Veteran (40yrs and above)",
+    "TshirtSize": "L"
   },
   {
     "Code": "0866059",
@@ -69,7 +85,9 @@
     "Age": 32,
     "Gender": "Male",
     "Address": "Dharan 8",
-    "Mobile": 9800992389
+    "Mobile": 9800992389,
+    "Category": "Open (16 - 39yrs)",
+    "TshirtSize": "XL"
   },
   {
     "Code": "0F661E9",
@@ -77,7 +95,9 @@
     "Age": 21,
     "Gender": "Male",
     "Address": "Dharan 8",
-    "Mobile": 9815358582
+    "Mobile": 9815358582,
+    "Category": "Open (16 - 39yrs)",
+    "TshirtSize": "XL"
   },
   {
     "Code": "0F6R5RN",
@@ -85,6 +105,38 @@
     "Age": 17,
     "Gender": "Male",
     "Address": "Dharan 13",
-    "Mobile": 9742287544
+    "Mobile": 9742287544,
+    "Category": "Open (16 - 39yrs)",
+    "TshirtSize": "L"
+  },
+  {
+    "Code": "0F8WASD",
+    "Fullname": "Ashutosh  Rai",
+    "Age": 18,
+    "Gender": "Male",
+    "Address": "Birat Chowk",
+    "Mobile": 9804382464,
+    "Category": "Open (16 - 39yrs)",
+    "TshirtSize": "M"
+  },
+  {
+    "Code": "0F8WDZM",
+    "Fullname": "Anish Bishwakarma",
+    "Age": 18,
+    "Gender": "Male",
+    "Address": "Birat Chowk",
+    "Mobile": 9804382464,
+    "Category": "Open (16 - 39yrs)",
+    "TshirtSize": "M"
+  },
+  {
+    "Code": "0FWH5W",
+    "Fullname": "Karan Bhujel",
+    "Age": 20,
+    "Gender": "Male",
+    "Address": "Dharan 08",
+    "Mobile": 982539115,
+    "Category": "Open (16 - 39yrs)",
+    "TshirtSize": "XL"
   }
 ]

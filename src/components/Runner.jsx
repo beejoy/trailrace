@@ -10,11 +10,13 @@ const Runner = ({ runner }) => {
           </h2>
           <p className="mb-2">Your details are:-</p>
 
-          <p>Payment Code: {data["Code"]}</p>
+          <p className="mb-2">Payment Code: {data["Code"]}</p>
           <p>
             Age/Gender: {data["Age"]}/{data["Gender"]}
           </p>
-          <p>
+          <p>Category: {data["Category"]}</p>
+          <p>T-shirt Size: {data["TshirtSize"]}</p>
+          <p className="mt-2">
             <span>Address</span>: {data["Address"]}
           </p>
           <p>
