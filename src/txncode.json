@@ -1,7 +1,7 @@
 [
   {
     "Code": "0F648FB",
-    "Full name": "Bishal rai ",
+    "Fullname": "Bishal rai ",
     "Age": 20,
     "Gender": "Male",
     "Address": "Pachathar",
@@ -11,7 +11,7 @@
   },
   {
     "Code": "OF64SRL",
-    "Full name": "Rai Yangpitanchhu",
+    "Fullname": "Rai Yangpitanchhu",
     "Age": 60,
     "Gender": "Male",
     "Address": "Dharan 19",
@@ -21,7 +21,7 @@
   },
   {
     "Code": "0F64ZWT",
-    "Full name": "Suniram Hemram",
+    "Fullname": "Suniram Hemram",
     "Age": 17,
     "Gender": "Male",
     "Address": "Mehinagar-Jhapa",
@@ -31,7 +31,7 @@
   },
   {
     "Code": "0865C96",
-    "Full name": "Nischal Gurung",
+    "Fullname": "Nischal Gurung",
     "Age": 18,
     "Gender": "Male",
     "Address": "Dharan 8",
@@ -41,7 +41,7 @@
   },
   {
     "Code": "0865HPX",
-    "Full name": "Tanka Prasad Gurung",
+    "Fullname": "Tanka Prasad Gurung",
     "Age": 53,
     "Gender": "Male",
     "Address": "Dharan 18",
@@ -51,7 +51,7 @@
   },
   {
     "Code": "0F65KF6",
-    "Full name": "Sairas Rai",
+    "Fullname": "Sairas Rai",
     "Age": 18,
     "Gender": "Male",
     "Address": "Ilam-Jarshing",
@@ -61,7 +61,7 @@
   },
   {
     "Code": "0F65OGX",
-    "Full name": "Mausham Kumar Sundas",
+    "Fullname": "Mausham Kumar Sundas",
     "Age": 30,
     "Gender": "Male",
     "Address": "damak",
@@ -71,7 +71,7 @@
   },
   {
     "Code": "OF65XC1",
-    "Full name": "Dhan Kumar Rai",
+    "Fullname": "Dhan Kumar Rai",
     "Age": 46,
     "Gender": "Male",
     "Address": "Dharan 16",
@@ -81,7 +81,7 @@
   },
   {
     "Code": "0866059",
-    "Full name": "Manish Rai",
+    "Fullname": "Manish Rai",
     "Age": 32,
     "Gender": "Male",
     "Address": "Dharan 8",
@@ -91,7 +91,7 @@
   },
   {
     "Code": "0F661E9",
-    "Full name": "Max Rai",
+    "Fullname": "Max Rai",
     "Age": 21,
     "Gender": "Male",
     "Address": "Dharan 8",
@@ -101,7 +101,7 @@
   },
   {
     "Code": "0F6R5RN",
-    "Full name": "Prabin Rai",
+    "Fullname": "Prabin Rai",
     "Age": 17,
     "Gender": "Male",
     "Address": "Dharan 13",
@@ -111,7 +111,7 @@
   },
   {
     "Code": "0F8WASD",
-    "Full name": "Ashutosh  Rai",
+    "Fullname": "Ashutosh  Rai",
     "Age": 18,
     "Gender": "Male",
     "Address": "Birat Chowk",
@@ -121,7 +121,7 @@
   },
   {
     "Code": "0F8WDZM",
-    "Full name": "Anish Bishwakarma",
+    "Fullname": "Anish Bishwakarma",
     "Age": 18,
     "Gender": "Male",
     "Address": "Birat Chowk",
@@ -131,7 +131,7 @@
   },
   {
     "Code": "0F8WH5W",
-    "Full name": "Karan Bhujel",
+    "Fullname": "Karan Bhujel",
     "Age": 20,
     "Gender": "Male",
     "Address": "Dharan 08",
@@ -141,7 +141,7 @@
   },
   {
     "Code": "0FAXZ34",
-    "Full name": "Sanjay Rout",
+    "Fullname": "Sanjay Rout",
     "Age": 46,
     "Gender": "Male",
     "Address": "Gol Bazaar",
@@ -151,7 +151,7 @@
   },
   {
     "Code": "0FAY7DE",
-    "Full name": "Adriano Dinu Thapa",
+    "Fullname": "Adriano Dinu Thapa",
     "Age": 35,
     "Gender": "Male",
     "Address": "Dharan 15",
