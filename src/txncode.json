@@ -1,7 +1,7 @@
 [
   {
     "Code": "0F648FB",
-    "Fullname": "Bishal rai ",
+    "Full name": "Bishal rai ",
     "Age": 20,
     "Gender": "Male",
     "Address": "Pachathar",
@@ -11,7 +11,7 @@
   },
   {
     "Code": "OF64SRL",
-    "Fullname": "Rai Yangpitanchhu",
+    "Full name": "Rai Yangpitanchhu",
     "Age": 60,
     "Gender": "Male",
     "Address": "Dharan 19",
@@ -20,8 +20,8 @@
     "TshirtSize": "M"
   },
   {
-    "Code": "0F64ZWT",
-    "Fullname": "Suniram Hemram",
+    "Code": "0f64ZWT",
+    "Full name": "Suniram Hemram",
     "Age": 17,
     "Gender": "Male",
     "Address": "Mehinagar-Jhapa",
@@ -31,7 +31,7 @@
   },
   {
     "Code": "0865C96",
-    "Fullname": "Nischal Gurung",
+    "Full name": "Nischal Gurung",
     "Age": 18,
     "Gender": "Male",
     "Address": "Dharan 8",
@@ -41,7 +41,7 @@
   },
   {
     "Code": "0865HPX",
-    "Fullname": "Tanka Prasad Gurung",
+    "Full name": "Tanka Prasad Gurung",
     "Age": 53,
     "Gender": "Male",
     "Address": "Dharan 18",
@@ -50,8 +50,8 @@
     "TshirtSize": "L"
   },
   {
-    "Code": "0F65KF6",
-    "Fullname": "Sairas Rai",
+    "Code": "0f65kf6",
+    "Full name": "Sairas Rai",
     "Age": 18,
     "Gender": "Male",
     "Address": "Ilam-Jarshing",
@@ -61,7 +61,7 @@
   },
   {
     "Code": "0F65OGX",
-    "Fullname": "Mausham Kumar Sundas",
+    "Full name": "Mausham Kumar Sundas",
     "Age": 30,
     "Gender": "Male",
     "Address": "damak",
@@ -71,7 +71,7 @@
   },
   {
     "Code": "OF65XC1",
-    "Fullname": "Dhan Kumar Rai",
+    "Full name": "Dhan Kumar Rai",
     "Age": 46,
     "Gender": "Male",
     "Address": "Dharan 16",
@@ -81,7 +81,7 @@
   },
   {
     "Code": "0866059",
-    "Fullname": "Manish Rai",
+    "Full name": "Manish Rai",
     "Age": 32,
     "Gender": "Male",
     "Address": "Dharan 8",
@@ -90,8 +90,8 @@
     "TshirtSize": "XL"
   },
   {
-    "Code": "0F661E9",
-    "Fullname": "Max Rai",
+    "Code": "0f661e9",
+    "Full name": "Max Rai",
     "Age": 21,
     "Gender": "Male",
     "Address": "Dharan 8",
@@ -101,7 +101,7 @@
   },
   {
     "Code": "0F6R5RN",
-    "Fullname": "Prabin Rai",
+    "Full name": "Prabin Rai",
     "Age": 17,
     "Gender": "Male",
     "Address": "Dharan 13",
@@ -110,8 +110,8 @@
     "TshirtSize": "L"
   },
   {
-    "Code": "0F8WASD",
-    "Fullname": "Ashutosh  Rai",
+    "Code": "0f8wasd",
+    "Full name": "Ashutosh  Rai",
     "Age": 18,
     "Gender": "Male",
     "Address": "Birat Chowk",
@@ -120,8 +120,8 @@
     "TshirtSize": "M"
   },
   {
-    "Code": "0F8WDZM",
-    "Fullname": "Anish Bishwakarma",
+    "Code": "0f8wdzm",
+    "Full name": "Anish Bishwakarma",
     "Age": 18,
     "Gender": "Male",
     "Address": "Birat Chowk",
@@ -131,11 +131,31 @@
   },
   {
     "Code": "0F8WH5W",
-    "Fullname": "Karan Bhujel",
+    "Full name": "Karan Bhujel",
     "Age": 20,
     "Gender": "Male",
     "Address": "Dharan 08",
     "Mobile": 9825391151,
+    "Category": "Open (16 - 39yrs)",
+    "TshirtSize": "XL"
+  },
+  {
+    "Code": "0faxz34",
+    "Full name": "Sanjay Rout",
+    "Age": 46,
+    "Gender": "Male",
+    "Address": "Gol Bazaar",
+    "Mobile": 9801562722,
+    "Category": "Veteran (40yrs and above)",
+    "TshirtSize": "L"
+  },
+  {
+    "Code": "0fay7de",
+    "Full name": "Adriano Dinu Thapa",
+    "Age": 35,
+    "Gender": "Male",
+    "Address": "Dharan 15",
+    "Mobile": 9807048261,
     "Category": "Open (16 - 39yrs)",
     "TshirtSize": "XL"
   }
