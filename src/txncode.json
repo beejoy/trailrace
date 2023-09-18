@@ -64,7 +64,7 @@
     "Fullname": "Mausham Kumar Sundas",
     "Age": 30,
     "Gender": "Male",
-    "Address": "damak",
+    "Address": "Damak",
     "Mobile": 9807919194,
     "Category": "Open (16 - 39yrs)",
     "TshirtSize": "L"
@@ -144,7 +144,7 @@
     "Fullname": "Sanjay Rout",
     "Age": 46,
     "Gender": "Male",
-    "Address": "Gol Bazaar",
+    "Address": "Gol Bazaar, Siraha",
     "Mobile": 9801562722,
     "Category": "Veteran (40yrs and above)",
     "TshirtSize": "L"
@@ -158,5 +158,25 @@
     "Mobile": 9807048261,
     "Category": "Open (16 - 39yrs)",
     "TshirtSize": "XL"
+  },
+  {
+    "Code": "OFCA8JH",
+    "Fullname": "Ramesh Lingden",
+    "Age": 35,
+    "Gender": "Male",
+    "Address": "Dharan 5",
+    "Mobile": 9808446567,
+    "Category": "Open (16 - 39yrs)",
+    "TshirtSize": "XL"
+  },
+  {
+    "Code": "0FCABT9",
+    "Fullname": "Nar Chongbang",
+    "Age": 27,
+    "Gender": "Male",
+    "Address": "Dharan 5",
+    "Mobile": 9808446567,
+    "Category": "Open (16 - 39yrs)",
+    "TshirtSize": "L"
   }
 ]
