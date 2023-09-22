@@ -188,5 +188,15 @@
     "Mobile": 9814305723,
     "Category": "Open (16 - 39yrs)",
     "TshirtSize": "M"
+  },
+  {
+    "Code": "0FF2DJF",
+    "Fullname": "Khadga Bhandari",
+    "Age": 55,
+    "Gender": "Male",
+    "Address": "Itahari 20",
+    "Mobile": 9815321077,
+    "Category": "Veteran (40yrs and above)",
+    "TshirtSize": "L"
   }
 ]
