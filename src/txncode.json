@@ -198,5 +198,45 @@
     "Mobile": 9815321077,
     "Category": "Veteran (40yrs and above)",
     "TshirtSize": "L"
+  },
+  {
+    "Code": "0FG9W01",
+    "Fullname": "Jamuna Limbu",
+    "Age": 40,
+    "Gender": "Female",
+    "Address": "Dharan 15",
+    "Mobile": 9816323333,
+    "Category": "Veteran (40yrs and above)",
+    "TshirtSize": "S"
+  },
+  {
+    "Code": "0FG9Z69",
+    "Fullname": "Kisor Khattri",
+    "Age": 36,
+    "Gender": "Male",
+    "Address": "Tarahara",
+    "Mobile": 9818636487,
+    "Category": "Open (16 - 39yrs)",
+    "TshirtSize": "L"
+  },
+  {
+    "Code": "0FGA1HK",
+    "Fullname": "Min Kumar Khawash",
+    "Age": 39,
+    "Gender": "Male",
+    "Address": "Tarahara",
+    "Mobile": 9818636487,
+    "Category": "Open (16 - 39yrs)",
+    "TshirtSize": "XL"
+  },
+  {
+    "Code": "0FGAF54",
+    "Fullname": "Sachina Rai",
+    "Age": 19,
+    "Gender": "Female",
+    "Address": "Tarahara",
+    "Mobile": 9818636487,
+    "Category": "Open (16 - 39yrs)",
+    "TshirtSize": "M"
   }
 ]
