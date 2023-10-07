@@ -248,5 +248,15 @@
     "Mobile": 9804047870,
     "Category": "Open (16 - 39yrs)",
     "TshirtSize": "L"
+  },
+  {
+    "Code": "OFPUGX2",
+    "Fullname": "Krishna Dahal",
+    "Age": 45,
+    "Gender": "Male",
+    "Address": "Dharan-13",
+    "Mobile": 9803595624,
+    "Category": "Veteran (40yrs and above)",
+    "TshirtSize": "M"
   }
 ]
